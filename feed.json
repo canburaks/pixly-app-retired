@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "pixly-retired",
+    "description": "",
+    "home_page_url": "https://canburaks.github.io/pixly-app-retired",
+    "feed_url": "https://canburaks.github.io/pixly-app-retired/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Can Burak Sofyalioglu"
+    },
+    "items": [
+    ]
+}
